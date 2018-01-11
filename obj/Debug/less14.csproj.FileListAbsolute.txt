@@ -1,0 +1,7 @@
+F:\C# .Net\less14\less14\bin\Debug\less14.exe.config
+F:\C# .Net\less14\less14\bin\Debug\less14.exe
+F:\C# .Net\less14\less14\bin\Debug\less14.pdb
+F:\C# .Net\less14\less14\obj\Debug\less14.csprojResolveAssemblyReference.cache
+F:\C# .Net\less14\less14\obj\Debug\less14.csproj.CoreCompileInputs.cache
+F:\C# .Net\less14\less14\obj\Debug\less14.exe
+F:\C# .Net\less14\less14\obj\Debug\less14.pdb
